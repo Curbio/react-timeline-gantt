@@ -47,6 +47,7 @@
     "eslint-plugin-react": "^7.9.1",
     "identity-obj-proxy": "^3.0.0",
     "jest": "^25.1.0",
+    "jest-config": "^25.1.0",
     "jest-fetch-mock": "^1.6.4",
     "jest-junit": "^5.0.0",
     "json-loader": "^0.5.7",
@@ -76,7 +77,6 @@
   ],
   "homepage": "https://github.com/guiqui/react-timeline-gantt",
   "dependencies": {
-    "jest-config": "^25.1.0",
     "moment": "^2.24.0",
     "opencollective": "^1.0.3",
     "opencollective-postinstall": "^2.0.1",
